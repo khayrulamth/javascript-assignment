@@ -1,4 +1,5 @@
-// https://github.com/khayrulamth/javascript-assignment.git
+// https://github.com/khayrulamth/javascript-assignment
+
 // kilometer to meter 
 function kilometerToMeter(distance) {
     if (distance > 0) {
